@@ -84,5 +84,5 @@ for i in range(0, len(questions)):
   else:
     print("Wrong answer!")
     break 
-
+#total  money
 print(f"Your take home money is {money}")
