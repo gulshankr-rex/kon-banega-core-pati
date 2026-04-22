@@ -1,3 +1,3 @@
-basic python project using datatypes.
+Basic Python Project using datatypes.
 <br>
 Author :- Gulshan kumar
