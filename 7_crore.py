@@ -28,6 +28,9 @@ questions = [
     ["Insaan ke sharir mein kitni haddiyan hoti hain?", "196", "206", "216", "226", 2],
     
     ["Bharat ka Swatantrata Diwas kab hai?", "26 January", "15 August", "2 October", "14 November", 2],
+    
+    ["jharkhand bhihar kis year me alag hua tha?", "2000", "2001", "2003", "2005", 1],
+    
 ]
 
 levels = [1000, 2000, 3000, 5000, 10000, 20000, 40000, 80000, 160000, 320000,
