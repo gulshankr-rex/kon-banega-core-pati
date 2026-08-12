@@ -7,7 +7,7 @@ questions = [
     
     ["Which city is known as the Pink City of India?","jaipur","delhi","ranchi","agra"],
     
-    ["Zero ka concept kis desh se aaya?", "China", "India", "Greece", "Egypt", 2],
+    ["Zero ka concept kis desh se aaya?", "China", "India", "Greece", "USA", 2],
     
     ["India ka national sport traditionally kya maana jata hai?", "Cricket", "Hockey", "Football", "Kabaddi", 4],
     
