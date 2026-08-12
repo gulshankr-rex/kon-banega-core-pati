@@ -5,6 +5,8 @@ questions = [
     
     ["Kaun sa planet Red Planet ke naam se jaana jata hai?", "Earth", "Mars", "Jupiter", "Venus", 2],
     
+    ["Which city is known as the Pink City of India?","jaipur","delhi","ranchi","agra"],
+    
     ["Zero ka concept kis desh se aaya?", "China", "India", "Greece", "Egypt", 2],
     
     ["India ka national sport traditionally kya maana jata hai?", "Cricket", "Hockey", "Football", "Kabaddi", 4],
